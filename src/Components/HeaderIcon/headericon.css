@@ -1,0 +1,12 @@
+.icons{
+    height: 34px;
+    font-size: 1.7rem;
+    cursor: pointer;
+}
+.icons-container{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding: 25px 0;
+}

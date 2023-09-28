@@ -1,0 +1,17 @@
+.images-container{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; 
+    /* grid-template-rows: repeat(2, 1fr); */
+    gap: 70px;
+    padding-bottom: 80px;
+
+}
+.image-container{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border-radius: 2%;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+}

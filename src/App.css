@@ -1,0 +1,20 @@
+.main-container{
+    width: 80%;
+    margin:auto
+}
+h1{
+    color: #645cff;
+    font-size: clamp(2rem,5vw,5rem);
+}
+.showMore-button{
+    background-color: #008cba;
+    font-size: 18px;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+    display: block;
+    margin: 30px auto;
+    border-radius: 5px;
+    cursor: pointer;
+}
